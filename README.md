@@ -13,17 +13,14 @@ What machine learning is (computers learning from data), how it's different from
 Engineering side: How AI gets built into real products (like apps or tools), simple problem-solving with tech.
 Hands-on stuff:
 Probably tried prompt engineering (writing good questions for AI) or no-code tools to make something basic work.
-Ethical and non-ethical part: Talked about good vs bad use of AI. Ethical = fair, transparent, no bias (e.g., not discriminating people). Non-ethical = things like deepfakes, privacy invasion, or biased decisions.
+Ethical and non-ethical part: Talked about good vs bad use of AI. Ethical = fair, transparent, no bias (e.g., not discriminating people). Non-ethical = things like privacy invasion, or biased decisions.
  humans vs AI: AI is really good at patterns and speed, but it can't feel emotions, understand context like people, or have real creativity/morality. Humans make the decisions – AI is just a tool.
 
 Why it matters for me:
 
 It showed me AI isn't magic – it's engineering + data. Got me thinking about using AI safely in IT (e.g., helping with troubleshooting without replacing people). Made me want to learn more for apprenticeship.
-Screenshots to take (if you have access)
 
-Any certificate/badge from the workshop (if emailed).
-A slide or note page from the session (if you saved any).
-Your TryHackMe or other related progress (if you link it).
+
 
 What everything means (simple explanation)
 
